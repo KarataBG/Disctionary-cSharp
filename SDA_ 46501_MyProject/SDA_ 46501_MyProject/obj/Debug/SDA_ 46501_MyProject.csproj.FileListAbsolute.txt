@@ -1,0 +1,12 @@
+C:\Users\GAMER\Desktop\УниБит неща\сем 4\Струк данни алгоритми\SDA-46501r\SDA_ 46501_MyProject\SDA_ 46501_MyProject\bin\Debug\SDA_ 46501_MyProject.exe.config
+C:\Users\GAMER\Desktop\УниБит неща\сем 4\Струк данни алгоритми\SDA-46501r\SDA_ 46501_MyProject\SDA_ 46501_MyProject\bin\Debug\SDA_ 46501_MyProject.exe
+C:\Users\GAMER\Desktop\УниБит неща\сем 4\Струк данни алгоритми\SDA-46501r\SDA_ 46501_MyProject\SDA_ 46501_MyProject\bin\Debug\SDA_ 46501_MyProject.pdb
+C:\Users\GAMER\Desktop\УниБит неща\сем 4\Струк данни алгоритми\SDA-46501r\SDA_ 46501_MyProject\SDA_ 46501_MyProject\obj\Debug\SDA_ 46501_MyProject.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\УниБит неща\сем 4\Струк данни алгоритми\SDA-46501r\SDA_ 46501_MyProject\SDA_ 46501_MyProject\obj\Debug\SDA__46501_MyProject.BulgarianForm.resources
+C:\Users\GAMER\Desktop\УниБит неща\сем 4\Струк данни алгоритми\SDA-46501r\SDA_ 46501_MyProject\SDA_ 46501_MyProject\obj\Debug\SDA__46501_MyProject.Form1.resources
+C:\Users\GAMER\Desktop\УниБит неща\сем 4\Струк данни алгоритми\SDA-46501r\SDA_ 46501_MyProject\SDA_ 46501_MyProject\obj\Debug\SDA__46501_MyProject.Properties.Resources.resources
+C:\Users\GAMER\Desktop\УниБит неща\сем 4\Струк данни алгоритми\SDA-46501r\SDA_ 46501_MyProject\SDA_ 46501_MyProject\obj\Debug\SDA_ 46501_MyProject.csproj.GenerateResource.cache
+C:\Users\GAMER\Desktop\УниБит неща\сем 4\Струк данни алгоритми\SDA-46501r\SDA_ 46501_MyProject\SDA_ 46501_MyProject\obj\Debug\SDA_ 46501_MyProject.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\УниБит неща\сем 4\Струк данни алгоритми\SDA-46501r\SDA_ 46501_MyProject\SDA_ 46501_MyProject\obj\Debug\SDA_ 46501_MyProject.exe
+C:\Users\GAMER\Desktop\УниБит неща\сем 4\Струк данни алгоритми\SDA-46501r\SDA_ 46501_MyProject\SDA_ 46501_MyProject\obj\Debug\SDA_ 46501_MyProject.pdb
+C:\Users\GAMER\Desktop\УниБит неща\сем 4\Струк данни алгоритми\SDA-46501r\SDA_ 46501_MyProject\SDA_ 46501_MyProject\obj\Debug\SDA__46501_MyProject.GermanForm.resources

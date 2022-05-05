@@ -1,0 +1,64 @@
+Algorithmus {m}::алгоритъм {м}
+Molekülwolke {f}::молекулярен облак {м}
+Katholizismus {m}::католицизъм {м}
+ausweichen {verb}::избягвам [несв.] [отбягвам]
+barfuß {adj} [indekl.]::бос
+Bäckerei {f}::хлебарница {ж}
+Backröhre {f} [regional]::фурна {ж} 
+Balkangebirge {n}::Стара планина {ж}
+Banker {m}::банкер {м}
+Calvinismus {m}::калвинизъм {м}
+Camembert {m}::камембер {м}
+Camouflage-::камуфлажен
+Camping {n}::къмпинг {м}
+Campingplatz {m}::място {ср} за къмпинг
+Canberra {n}::Канбера {ж}
+Cannabinoid {n}::канабиноид {м}
+Cannabis {m} {n}[Hanf]::канабис {м} [коноп]
+Canvas {m} {n} [Leinwand]::платно {ср} [плат]
+Cappuccino {m}::капучино {ср}
+Caravan {m}::каравана {ж}
+Carbonat {n} [fachsprachlich]::карбонат {м}
+Carcassonne {n}::Каркасон {м}
+Cardigan {m}::жилетка {ж} [без яка]
+Carpaccio {n}::карпачо {ср}
+CAS-Nummer {f}::регистрационен номер {м} в CAS
+Cashflow {m}::паричен поток {м}
+Cäsium {n} <Cs>::цезий {м} <Cs>
+Catering {n}::кетъринг {м} 
+Cavatine {f}::каватина {ж}
+CB-Funk {m}::гражданска радиовръзка {ж}
+CD-Brenner {m}::CD-записвачка {ж}
+CD-Ständer {m}::стойка {ж} за дискове
+Cello {n}::виолончело {ср}
+Cellulite {f}::целулит {м}
+Cembalo {n}::чембало {ср}
+Cent {m} <c, ct>::цент {м}
+Chabarowsk {n}::Хабаровск {м}
+Chamäleon {n}::хамелеон {м}
+Champagner {m}::шампанско {ср} 
+Champignon {m} [Agaricus]::печурка {ж}
+Champion {m}::шампион {м}
+Chance {f}::шанс {м}
+Chancengleichheit {f}::равенство {ср} на възможностите
+changieren [veraltet] [geh.]::сменям
+changierend [Farbe]::преливащ [цвят]
+Chaos {n}::хаос {м}
+chaotisch::хаотичен
+Charakter {m} [Wesen]::нрав {м}
+charakterisieren::характеризирам
+Charakteristik {f}::характеристика {ж}
+charakteristisch::отличителен
+charakterlos::безхарактерен
+Charge {f}::партида {ж}
+Chariklo {f}::Харикло {ж}
+Charisma {n}::харизма {ж}
+charismatisch::харизматичен
+Chariten {pl}::харити {мн}
+Charleston {m}::чарлстон {м}
+charmant::очарователен
+Charme {m}::очарование {ср}
+Charterflug {m}::чартърен полет {м}
+Chartismus {m}::чартизъм {м}
+Charts {pl} [Hitliste]::класация {ж} (на хитове)
+China-Schuppentier {n}::китайски панголин {м}
